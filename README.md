@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimxshahrear&label=Profile%20views&color=0e75b6&style=flat" alt="fahimxshahrear" /> </p>
 
-- 🔭 I’m currently working on [Vouch Bot](https://discord.gg/njq2NSVMpR)
+- 🔭 I’m currently working on [BOOSTS BOT V4](https://discord.gg/starboosts)
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [FxS Shop](https://discord.gg/njq2NSVMpR)
-
-- 🤝 I’m looking for help with [Vouch Bot](https://discord.gg/njq2NSVMpR)
+- 👯 I’m working on [STAR BOOSTS](https://discord.gg/starboosts)
 
 - 👨‍💻 All of my projects are available at [https://github.com/fahimxshahrear](https://github.com/fahimxshahrear)
 
@@ -18,8 +16,6 @@
 - 📫 How to reach me **fahimxshahrear@yahoo.com**
 
 - 📄 Know about my experiences [https://github.com/fahimxshahrear](https://github.com/fahimxshahrear)
-
-- ⚡ Fun fact **I think I am not bad**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
